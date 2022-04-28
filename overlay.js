@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Overlay pour r/place
-// @author       Herobrine
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://place.luna-park.fr/favicon.png
 // @grant        none
