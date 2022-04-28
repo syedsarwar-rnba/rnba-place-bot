@@ -1,5 +1,3 @@
-// By: /u/oralekin:
-
 // Takes only 5 minutes to set-up 
 
 // This overlay ensures that you aren't squinting for 5 minutes looking for the proper pixel position and still getting it wrong, putting everyone even further behind. 
@@ -44,15 +42,13 @@
 
 // ==UserScript==  
 
-// @name osu! Logo template  
+// @name rNBA! Logo template  
 
 // @namespace http://tampermonkey.net/  
 
 // @version 0.1  
 
 // @description try to take over the canvas!  
-
-// @author oralekin  
 
 // @match https://hot-potato.reddit.com/embed*  
 
