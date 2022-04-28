@@ -2,8 +2,6 @@
 // @name         Place Bot for r/nba
 // @namespace    https://github.com/Skeeww/Bot
 // @version      41
-// @description  FRANCE
-// @author       NoahvdAa (fork by r/placefrance)
 // @match        https://www.reddit.com/r/place/*
 // @match        https://new.reddit.com/r/place/*
 // @connect      reddit.com
