@@ -1,5 +1,4 @@
 // ==UserScript==
-// @name         r/mizkif Template System
 // @namespace    http://tampermonkey.net/
 // @version      0.7
 // @description  do what we say
